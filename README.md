@@ -1,7 +1,11 @@
 # food
-<<<<<<< HEAD
+
+Burrito Ingredients:
 salsa
-burrito
+cheese
+rice
+beans
+carne asada
 =======
 
 Poke Bowl Ingredients:
@@ -14,5 +18,4 @@ masago
 popcorn
 Twix
 =======
->>>>>>> 5856b0bfb0a3ddbb36e21776ecfbca364c627ec3
->>>>>>> 7694c8cd8cbcf4ae48f37fe20626105cb93bc551
+
