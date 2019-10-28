@@ -14,7 +14,6 @@ white rice
 corn
 seaweed
 masago
-<<<<<<< HEAD
 popcorn
 Twix
 =======
