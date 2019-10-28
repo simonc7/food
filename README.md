@@ -6,3 +6,5 @@ white rice
 corn
 seaweed
 masago
+popcorn
+Twix
