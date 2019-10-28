@@ -2,12 +2,13 @@
 
 ### Burrito Ingredients:
 
+Hello!
+
 ####### salsa
 ####### cheese
 ####### rice
 ####### beans
 ####### carne asada
-=======
 
 ### Poke Bowl Ingredients:
 
@@ -18,5 +19,4 @@
 ###### masago
 ###### popcorn
 ###### Twix
-=======
 
