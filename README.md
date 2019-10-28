@@ -1,14 +1,14 @@
 # food
 
-Burrito Ingredients:
-###### salsa
-###### cheese
-###### rice
-###### beans
-###### carne asada
+### Burrito Ingredients:
+salsa
+cheese
+rice
+beans
+carne asada
 =======
 
-Poke Bowl Ingredients:
+### Poke Bowl Ingredients:
 Atlantic salmon
 white rice
 corn
